@@ -1,3 +1,3 @@
 DEMO
 
-This is just demo stuff
+This is just demo stuff.
